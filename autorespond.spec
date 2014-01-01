@@ -4,6 +4,8 @@ Version:    2.0.5
 Release:    0%{?dist}
 License:    GPL
 Group:      System/Servers
+Vendor:     QmailToaster
+Packager:   Eric Shubert <qmt-build@datamatters.us>
 URL:	    http://www.inter7.com/index.php?page=development
 Source:     http://www.inter7.com/devel/%{name}-%{version}.tar.gz
 Obsoletes:  autorespond-toaster
